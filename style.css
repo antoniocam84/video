@@ -11,8 +11,7 @@ header {
     padding: 20px;
     font-size: 82px;
     color: rgb(42, 122, 228);
-    justify-content:center;
-}
+    justify-items: center;
 
 .chamada {
     background: rgb(184, 156, 213);
